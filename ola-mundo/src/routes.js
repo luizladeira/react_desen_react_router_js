@@ -12,6 +12,6 @@ function AppRoutes() {
     <Route path="/*" element={<div>NÃO EXISTE</div>} />
   </Routes>  
   </BrowserRouter>
-}
+} 
 
 export default AppRoutes;
