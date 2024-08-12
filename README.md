@@ -40,3 +40,7 @@ O index indica que o caminho da rota é igual ao da rota pai.
 Diferenciar caminhos relativos e absolutos.
 
 Caminhos absolutos iniciam com /, enquanto caminhos relativos iniciam sem a /, partindo do caminho da rota pai.
+
+
+# LINK DO PROJETO NO VERCEL
+(https://react-desen-react-router-js.vercel.app/)[https://react-desen-react-router-js.vercel.app/]
