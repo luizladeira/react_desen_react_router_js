@@ -43,4 +43,4 @@ Caminhos absolutos iniciam com /, enquanto caminhos relativos iniciam sem a /, p
 
 
 # LINK DO PROJETO NO VERCEL
-(LINK DO PROJETO)[https://react-desen-react-router-js.vercel.app/]
+[https://react-desen-react-router-js.vercel.app/] (https://react-desen-react-router-js.vercel.app/)
