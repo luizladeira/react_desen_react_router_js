@@ -42,3 +42,13 @@ Com ele, obtemos os parâmetros passados para uma rota dinâmica.
 # Controle de navegação no react-router-dom
 
 Controle da navegação do react-router-dom utilizando o hook useNavigate. Você sempre pode consultar como realizar navegação na (documentação)[https://reactrouter.com/en/main/hooks/use-navigate].
+
+
+# Scroll to TOP
+Consulte a (documentação do Scroll To Top)[https://v5.reactrouter.com/web/guides/scroll-restoration/scroll-to-top]. Essa documentação é da versão 5 do react-router-dom, mas a solução continua válida para a versão 6 que estamos utilizando.
+
+Para se aprofundar nos métodos JavaScript que usamos no Desafio, seguem os links da documentação da MDN:
+
+(filter)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter]
+(sort)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort]
+(slice)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice]
