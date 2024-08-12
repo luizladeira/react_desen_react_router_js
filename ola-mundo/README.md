@@ -11,3 +11,18 @@ o recurso de rotas aninhadas, que são rotas filhas de uma mesma rota pai. Você
 
 # Rotas Index
 Documentação das [rotas index](https://reactrouter.com/en/main/start/concepts#index-routes)
+
+
+# O que aprendemos até o momento
+Identificar quando utilizar rotas aninhadas;
+
+Colocamos as páginas Inicio e SobreMim como filhas de PaginaPadrao, para que apenas elas reaproveitassem a mesma estrutura. Não queríamos que o Banner aparecesse na página 404.
+Utilizar o componente Outlet;
+
+A rota que é pai de outras se responsabiliza por dizer onde elas serão renderizadas com o Outlet do react-router-dom.
+Utilizar o atributo index do Route;
+
+O index indica que o caminho da rota é igual ao da rota pai.
+Diferenciar caminhos relativos e absolutos.
+
+Caminhos absolutos iniciam com /, enquanto caminhos relativos iniciam sem a /, partindo do caminho da rota pai.
