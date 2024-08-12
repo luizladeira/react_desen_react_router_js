@@ -52,3 +52,7 @@ Para se aprofundar nos métodos JavaScript que usamos no Desafio, seguem os link
 (filter)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter]
 (sort)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort]
 (slice)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice]
+
+
+# LINK DO PROJETO NO VERCEL
+[https://react-desen-react-router-js.vercel.app/](https://react-desen-react-router-js.vercel.app/)
